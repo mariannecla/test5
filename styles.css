@@ -1,0 +1,105 @@
+
+.top-container {background: #f9f9f9;
+  display: block;
+      padding: 10px;
+      margin-bottom: 0px;
+}
+.middle-container {background: #f9f9f9;}
+
+body{margin:0;
+text-align: center;
+font-family: 'DM Mono', monospace;}
+
+p{line-height: 1.5;
+color: #7d5a5a;}
+
+h1{
+font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Neucha', cursive;
+  color: #e19999;
+}
+h2 {font-family: 'DM Mono', monospace;
+font-size: 2.5rem;
+color: #f5a8a8;
+font-weight: normal;
+}
+
+h3{font-family: 'Montserrat', sans-serif;}
+
+a:hover {color : }
+
+.top-container
+{  position: relative;
+  padding-top: 100px;
+color:#11999E;
+}
+hr {
+  border: dotted grey 5px;
+border-bottom: none;
+width: 5%;
+margin: 7Ò0px auto;
+}
+
+.pro{text-decoration: underline;}
+
+.cloud-bottom {position: absolute;
+left: 300px;
+bottom:300px}
+.cloud-top {position: absolute;
+right: 300px;
+top:50px;
+}
+
+.bottom-container {background-color: #e19999;
+padding:50px 0 20px;}
+
+.skill-row {
+  width: 50%;
+margin :50px auto 50px auto;
+text-align: left;
+line-height: 1
+}
+.skill1 {width: 25%;
+float: left;
+margin-right: 30px;}
+
+.skill2 {width: 25%;
+  float: right;
+margin-left: 10px;}
+
+.logo {width: 15%}
+
+.skills-title {color: #11999E;}
+
+.btn{
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-bottom: 20px;
+}
+
+.introduction {font-size: 2rem;}
+
+.presentation{
+  margin : auto 100px auto 100px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.avantages {line-height: 2;
+color: #7d5a5a;
+}
+
+.avantages2{line-height: 2;
+color: #7d5a5a;Ò
+
+}
